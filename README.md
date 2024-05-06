@@ -47,7 +47,7 @@ Clean the room and Search for dirt and Suck it.
 ### STEP 5:
 Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented
  ## Program:
- ```
+ ```py
  import random
 import time
 class Thing:
